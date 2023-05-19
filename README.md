@@ -8,7 +8,9 @@
 
 - 📫 How to reach me:
   - You can send me a message on GitHub: [@esamintech](https://github.com/esamintech)
-  - You can also reach out to me via email at [esamintech@gamail.com](mailto:esamsharf2@gmail.com)
+  - You can also reach out to me via email at [esamsharf2@gamail.com](mailto:esamsharf2@gmail.com)
+  - You can also reach out to me via email at [esamintech@gamail.com](mailto:esamintech@gmail.com)
+ 
 
 
 <!---
